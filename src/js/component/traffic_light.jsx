@@ -57,7 +57,3 @@ const TrafficLight = () => {
 };
 
 export default TrafficLight;
-
-//Agregar la siguiente linea da muchos errores 
-//<button className="btn btn-dark mb-2" onClick={switchLight(true)}>Add Purple!</button>
-//<button className="btn btn-dark mb-2">Add Purple!</button>
